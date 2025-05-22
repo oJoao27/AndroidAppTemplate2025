@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.gabriel.taskmaster
 
 import org.junit.Test
 
