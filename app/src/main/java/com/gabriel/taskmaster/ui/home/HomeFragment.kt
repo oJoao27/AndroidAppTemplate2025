@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate.ui.home
+package com.gabriel.taskmaster.ui.home
 
 import android.content.Context
 import android.os.Bundle
@@ -18,9 +18,9 @@ import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
-import com.jailton.androidapptemplate.R
-import com.jailton.androidapptemplate.baseclasses.Item
-import com.jailton.androidapptemplate.databinding.FragmentHomeBinding
+import com.gabriel.taskmaster.R
+import com.gabriel.taskmaster.baseclasses.Item
+import com.gabriel.taskmaster.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
 
