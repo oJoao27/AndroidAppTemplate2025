@@ -1,8 +1,9 @@
-package com.jailton.androidapptemplate.ui.ai
+package com.gabriel.taskmaster.ui.ai
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.jailton.androidapptemplate.R
+import com.gabriel.taskmaster.R
+import com.gabriel.taskmaster.ui.ai.AiLogicFragment
 
 class AiLogicActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
